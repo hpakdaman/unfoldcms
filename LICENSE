@@ -1,0 +1,139 @@
+UnfoldCMS Source-Available License (Version 1.0)
+
+Copyright (c) 2024–2026 Hamed Pakdaman. All rights reserved.
+
+This is a source-available license, not an open-source license. The code in
+this repository is publicly visible for transparency, evaluation, and
+community contributions, but it is not licensed under an OSI-approved
+open-source license. Use of this software in production requires a paid
+license purchased from https://unfoldcms.com/pricing.
+
+----------------------------------------------------------------------
+
+1. DEFINITIONS
+
+"Software" means the source code, compiled output, configuration files,
+themes, templates, documentation, and assets published in this repository
+or distributed under the name "UnfoldCMS."
+
+"You" means the individual or legal entity exercising the permissions
+granted by this license.
+
+"Production Use" means deploying or operating the Software to serve
+content, accept user input, process payments, or otherwise function as a
+live service for any audience other than the License Holder's own
+local-development environment or a non-public staging environment used
+solely for evaluation.
+
+"License Holder" means a person or entity who has purchased and holds a
+valid, current license key from https://unfoldcms.com.
+
+"Site" means a single domain or hostname (including subdomains served by
+the same installation) that runs an instance of the Software.
+
+----------------------------------------------------------------------
+
+2. GRANT OF RIGHTS
+
+Subject to the conditions and restrictions in this license, You are
+granted the following rights:
+
+(a) READ. You may read, inspect, and study the source code in this
+    repository.
+
+(b) FORK FOR REVIEW. You may fork this repository for the purpose of
+    reading the code and proposing patches via Issues or Discussions.
+
+(c) PRIVATE EVALUATION. You may install and run the Software on a local
+    development machine, or on a non-public staging environment, for
+    evaluation purposes, without a paid license, for up to 30 days.
+
+(d) PRODUCTION USE WITH LICENSE. If You are a License Holder, You may
+    install and operate the Software on the number of Sites covered by
+    Your license tier, subject to the tier's terms.
+
+(e) MODIFICATION. License Holders may modify the Software for their own
+    use on their licensed Sites. Modifications may not be redistributed.
+
+(f) PATCH SUBMISSION. You may submit patches, bug fixes, or feature
+    suggestions to this repository via Issues or Discussions. By doing
+    so, You grant Hamed Pakdaman a perpetual, worldwide, non-exclusive,
+    royalty-free license to use, modify, distribute, and incorporate
+    Your contribution into the Software under any license terms.
+
+----------------------------------------------------------------------
+
+3. RESTRICTIONS
+
+Without a valid current license, or beyond the scope of Your license tier,
+You may NOT:
+
+(a) Use the Software for Production Use.
+
+(b) Redistribute, sublicense, sell, lease, or otherwise transfer the
+    Software, in whole or in part, in source or compiled form.
+
+(c) Remove, alter, or obscure any copyright notice, license notice, or
+    attribution in the Software.
+
+(d) Use the names, trademarks, logos, or brand identity of "UnfoldCMS,"
+    "Unfold," or any associated marks in any derivative product,
+    competing product, or commercial offering.
+
+(e) Use the Software to provide a hosted, multi-tenant, or "as a service"
+    offering of CMS functionality to third parties without a separate
+    written agreement with Hamed Pakdaman.
+
+(f) Reverse-engineer, circumvent, or disable the Software's license-
+    verification mechanisms.
+
+----------------------------------------------------------------------
+
+4. THIRD-PARTY DEPENDENCIES
+
+The Software incorporates open-source libraries and dependencies, each
+governed by its own license. Those licenses continue to apply to the
+respective libraries. This license applies only to the Software's own
+code and assets, not to its dependencies.
+
+----------------------------------------------------------------------
+
+5. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL
+THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE,
+ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
+
+----------------------------------------------------------------------
+
+6. TERMINATION
+
+This license terminates automatically if You breach any of its terms. Upon
+termination, You must cease all use of the Software, delete all copies in
+Your possession, and destroy any modifications. Sections 3, 4, 5, and 7
+survive termination.
+
+----------------------------------------------------------------------
+
+7. GOVERNING LAW
+
+This license is governed by and construed in accordance with the laws of
+the jurisdiction in which Hamed Pakdaman resides. Any disputes arising
+under this license will be resolved in the courts of that jurisdiction.
+
+----------------------------------------------------------------------
+
+8. CONTACT
+
+Questions about this license, commercial agreements, or use cases not
+covered above should be directed to:
+
+    https://unfoldcms.com/contact
+
+----------------------------------------------------------------------
+
+End of UnfoldCMS Source-Available License v1.0.
