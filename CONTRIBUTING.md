@@ -77,7 +77,7 @@ If you're submitting a patch, follow the existing code style:
 **Don't open a public Issue for security vulnerabilities.** Email security details to:
 
 ```
-security@unfoldcms.com
+support@unfoldcms.com
 ```
 
 We'll acknowledge within 48 hours and work on a fix. Responsible disclosures are credited in release notes (with the reporter's permission).
